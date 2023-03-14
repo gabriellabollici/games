@@ -1,0 +1,20 @@
+{
+    "SCREEN_WIDTH" : 400,
+    "SCREEN_HEIGHT" : 600,
+    "blanco" : [255, 255, 255],
+    "rosa" : [239, 71, 130],
+    "lila" : [101, 147, 245],
+    "negro" : [10, 10, 10],
+    "fuente_pequenya" : 15,
+    "fuente_mediana" : 25,
+    "fuente_grande" : 40,
+    "gravedad" : 1,
+    "FPS" : 60,
+    "scroll_thresh" : 200,
+    "personaje": "assets/personaje.png",
+    "background": "assets/fondo.png",
+    "plataforma": "assets/plataforma.png",
+    "mariposas_imagen": "assets/mariposas.png"
+
+
+}
